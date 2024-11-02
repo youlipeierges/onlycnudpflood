@@ -13,7 +13,3 @@
 `python3 udp.py`  
 或者  
 `python udp.py`  
-
-python安装指令依赖:  
-`pip install bs4`  
-`pip install pysocks`  
